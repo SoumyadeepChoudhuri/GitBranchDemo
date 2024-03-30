@@ -1,5 +1,9 @@
+import org.testng.annotations.Test;
+
 public class a {
-    public static void main(String[] args){
+    @Test
+    public static void main(){
         int i=2;
+        System.out.println(i);
     }
 }
