@@ -4,6 +4,7 @@ public class a {
     @Test
     public static void main(){
         int i=2;
-        System.out.println(i);
+        int j=3;
+        int k=4;
     }
 }
